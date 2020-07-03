@@ -1,0 +1,49 @@
+@import "button.css";
+
+h1 {
+  font-weight: 800;
+  color: gray;
+  transition: all 2s;
+}
+h1:hover {
+  transform: scale(1, 2);
+}
+p {
+  color: orange;
+}
+#website-title {
+  padding: 10px;
+  border-style: solid;
+}
+.menu {
+  margin: 5rem;
+  border-style: solid;
+}
+button:hover {
+  background-color: #66ff00;
+}
+
+div p {
+  background-color: coral;
+}
+
+nav {
+  background-color: coral;
+  display: inline;
+}
+
+img {
+  width: 100px;
+}
+
+#logo {
+  background-color: white;
+}
+
+.gambar {
+  border: 1px solid black;
+}
+
+.gambar.kecil {
+  width: 50px;
+}
